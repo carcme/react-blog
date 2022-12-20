@@ -1,3 +1,11 @@
+react-blog – ./
+
+react-blog-mauve.vercel.app
+react-blog-bamptonm.vercel.app
+react-blog-git-main-bamptonm.vercel.app
+
+—
+
 https://www.youtube.com/watch?v=Dc7LAgqy1_E&t=922s
 
 
